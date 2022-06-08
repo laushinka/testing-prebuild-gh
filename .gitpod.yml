@@ -1,7 +1,8 @@
 image:
     file: .gitpod.Dockerfile
 tasks:
-  - init: |
+  - name: my gitpod yml
+    init: |
       echo 'TODO: build project'
     command: |
       echo 'TODO: start app'
