@@ -4,6 +4,7 @@ tasks:
   - name: my gitpod yml
     init: |
       echo 'TODO: build project'
+      echo 'try again'
     command: |
       echo 'TODO: start app'
       echo 'something else'
