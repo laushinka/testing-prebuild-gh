@@ -5,6 +5,7 @@ tasks:
     init: |
       echo 'TODO: build project'
       echo 'try again'
+      echo 'hellooo'
     command: |
       echo 'TODO: start app'
       echo 'something else'
